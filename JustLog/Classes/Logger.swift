@@ -8,6 +8,7 @@
 
 import Foundation
 import SwiftyBeaver
+import UIKit
 
 @objc
 public final class Logger: NSObject {
