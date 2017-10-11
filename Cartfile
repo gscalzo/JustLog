@@ -1,0 +1,2 @@
+github "robbiehanson/CocoaAsyncSocket" ~> 7.6
+github "SwiftyBeaver/SwiftyBeaver" "master"
